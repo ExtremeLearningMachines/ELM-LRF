@@ -20,6 +20,6 @@ Bibtex:
 
 For NORB dataset, please download it from http://web.stanford.edu/~asaxe/random_weights.html and put it in the same folder with the codes.
 
-USAGE: result=ELM_LRF_function('param5', 0.01);
+USAGE: result=ELM_LRF_function('param5', 0.01);  memory require ~35G
 
 We include some excellent functions from rwrelease.tar.gz £¨On random weights and unsupervised feature learning£© and TCNN code (Tiled convolutional neural networks£¬ http://web.stanford.edu/~asaxe/random_weights.html). Many thanks to the authors.
