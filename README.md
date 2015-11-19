@@ -19,6 +19,7 @@ Bibtex:
 
 
 For NORB dataset, please download it from http://web.stanford.edu/~asaxe/random_weights.html and put it in the same folder with the codes.
+For NORB dataset, stanford forbidden,now down form http://pan.baidu.com/s/1hq2OpcK
 
 USAGE: result=ELM_LRF_function('param5', 0.01);  memory require ~35G
 
